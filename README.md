@@ -1,10 +1,10 @@
 # Finance API application
 Documentação do Adonis 4.1: https://legacy.adonisjs.com/docs/4.1/installation
 
-## Instalar dependencias:
+### Instalar dependencias:
 - npm install
 
-Comandos:
+### Comandos:
 - adonis serve --dev (startar aplicação)
 - adonis make:controller User (cria um controller)
 - adonis make:model User (cria um model)
