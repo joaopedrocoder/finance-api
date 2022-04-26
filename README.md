@@ -9,7 +9,7 @@ Documentação do Adonis 4.1: https://legacy.adonisjs.com/docs/4.1/installation
 - adonis make:controller User (cria um controller)
 - adonis make:model User (cria um model)
 - adonis make:migration users (cria uma migration)
-- adonis migration:run (cria a migration)
+- adonis migration:run (instancia o migration no BD)
 - adonis migration:refresh (apaga e recria as migration)
 - adonis test (roda os testes)
 
